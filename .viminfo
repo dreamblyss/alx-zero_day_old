@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1629593640,,"wq"
+|2,0,1629599745,,"wq"
+:q
+|2,0,1629594361,,"q"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +27,268 @@
 # Registers:
 
 # File marks:
-'0  3  0  ~/bash/alx
-|4,48,3,0,1629593640,"~/bash/alx"
+'0  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+|4,48,2,1,1629599745,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
+'1  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+|4,49,2,1,1629599149,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
+'2  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+|4,50,2,1,1629599127,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
+'3  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+|4,51,2,1,1629599127,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
+'4  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+|4,52,2,2,1629598701,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
+'5  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+|4,53,2,2,1629598701,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
+'6  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+|4,54,2,2,1629598701,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
+'7  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+|4,55,2,2,1629598701,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
+'8  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+|4,56,3,0,1629598701,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
+'9  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+|4,57,3,0,1629598701,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
 
 # Jumplist (newest first):
--'  3  0  ~/bash/alx
-|4,39,3,0,1629593640,"~/bash/alx"
--'  1  0  ~/bash/alx
-|4,39,1,0,1629593564,"~/bash/alx"
+-'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+|4,39,2,1,1629599745,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
+-'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+|4,39,2,1,1629599149,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
+-'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+|4,39,2,1,1629599127,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+|4,39,3,0,1629599031,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+|4,39,3,0,1629599031,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+|4,39,3,0,1629598701,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+|4,39,1,0,1629598661,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+|4,39,1,0,1629598661,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+|4,39,1,0,1629598661,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+|4,39,1,0,1629598661,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
+-'  2  0  ~/alx-system_engineering-devops/README.md
+|4,39,2,0,1629597633,"~/alx-system_engineering-devops/README.md"
+-'  2  0  ~/alx-system_engineering-devops/README.md
+|4,39,2,0,1629597633,"~/alx-system_engineering-devops/README.md"
+-'  2  0  ~/alx-system_engineering-devops/README.md
+|4,39,2,0,1629597633,"~/alx-system_engineering-devops/README.md"
+-'  2  0  ~/alx-system_engineering-devops/README.md
+|4,39,2,0,1629597633,"~/alx-system_engineering-devops/README.md"
+-'  2  0  ~/alx-system_engineering-devops/README.md
+|4,39,2,0,1629597633,"~/alx-system_engineering-devops/README.md"
+-'  2  0  ~/alx-system_engineering-devops/README.md
+|4,39,2,0,1629597633,"~/alx-system_engineering-devops/README.md"
+-'  2  0  ~/alx-system_engineering-devops/README.md
+|4,39,2,0,1629597633,"~/alx-system_engineering-devops/README.md"
+-'  2  0  ~/alx-system_engineering-devops/README.md
+|4,39,2,0,1629597633,"~/alx-system_engineering-devops/README.md"
+-'  2  0  ~/alx-system_engineering-devops/README.md
+|4,39,2,0,1629597633,"~/alx-system_engineering-devops/README.md"
+-'  2  0  ~/alx-system_engineering-devops/README.md
+|4,39,2,0,1629597633,"~/alx-system_engineering-devops/README.md"
+-'  2  0  ~/alx-system_engineering-devops/README.md
+|4,39,2,0,1629597633,"~/alx-system_engineering-devops/README.md"
+-'  2  0  ~/alx-system_engineering-devops/README.md
+|4,39,2,0,1629597633,"~/alx-system_engineering-devops/README.md"
+-'  2  0  ~/alx-system_engineering-devops/README.md
+|4,39,2,0,1629597633,"~/alx-system_engineering-devops/README.md"
+-'  2  0  ~/alx-system_engineering-devops/README.md
+|4,39,2,0,1629597633,"~/alx-system_engineering-devops/README.md"
+-'  2  0  ~/alx-system_engineering-devops/README.md
+|4,39,2,0,1629597633,"~/alx-system_engineering-devops/README.md"
+-'  2  0  ~/alx-system_engineering-devops/README.md
+|4,39,2,0,1629597633,"~/alx-system_engineering-devops/README.md"
+-'  1  0  ~/alx-system_engineering-devops/README.md
+|4,39,1,0,1629597601,"~/alx-system_engineering-devops/README.md"
+-'  1  0  ~/alx-system_engineering-devops/README.md
+|4,39,1,0,1629597601,"~/alx-system_engineering-devops/README.md"
+-'  1  0  ~/alx-system_engineering-devops/README.md
+|4,39,1,0,1629597601,"~/alx-system_engineering-devops/README.md"
+-'  1  0  ~/alx-system_engineering-devops/README.md
+|4,39,1,0,1629597601,"~/alx-system_engineering-devops/README.md"
+-'  1  0  ~/alx-system_engineering-devops/README.md
+|4,39,1,0,1629597601,"~/alx-system_engineering-devops/README.md"
+-'  1  0  ~/alx-system_engineering-devops/README.md
+|4,39,1,0,1629597601,"~/alx-system_engineering-devops/README.md"
+-'  1  0  ~/alx-system_engineering-devops/README.md
+|4,39,1,0,1629597601,"~/alx-system_engineering-devops/README.md"
+-'  1  0  ~/alx-system_engineering-devops/README.md
+|4,39,1,0,1629597601,"~/alx-system_engineering-devops/README.md"
+-'  1  0  ~/alx-system_engineering-devops/README.md
+|4,39,1,0,1629597601,"~/alx-system_engineering-devops/README.md"
+-'  1  0  ~/alx-system_engineering-devops/README.md
+|4,39,1,0,1629597601,"~/alx-system_engineering-devops/README.md"
+-'  1  0  ~/alx-system_engineering-devops/README.md
+|4,39,1,0,1629597601,"~/alx-system_engineering-devops/README.md"
+-'  1  0  ~/alx-system_engineering-devops/README.md
+|4,39,1,0,1629597601,"~/alx-system_engineering-devops/README.md"
+-'  1  0  ~/alx-system_engineering-devops/README.md
+|4,39,1,0,1629597601,"~/alx-system_engineering-devops/README.md"
+-'  1  0  ~/alx-system_engineering-devops/README.md
+|4,39,1,0,1629597601,"~/alx-system_engineering-devops/README.md"
+-'  1  0  ~/alx-system_engineering-devops/README.md
+|4,39,1,0,1629597601,"~/alx-system_engineering-devops/README.md"
+-'  1  0  ~/alx-system_engineering-devops/README.md
+|4,39,1,0,1629597601,"~/alx-system_engineering-devops/README.md"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  3  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,3,0,1629597067,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,39,1,0,1629596938,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+	*	1629599737	0
+	"	2	1
+	^	2	2
+	.	3	0
+	+	1	11
+	+	2	1
+	+	3	0
+
+> ~/alx-system_engineering-devops/README.md
+	*	1629597625	0
+	"	2	0
+	^	2	0
+	.	1	40
+	+	1	40
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+	*	1629597060	0
+	"	3	0
+	^	3	0
+	.	2	3
+	+	2	3
+
+> ~/0-current_working_directory
+	*	1629596515	0
+	"	4	0
+	^	4	0
+	.	3	0
+	+	2	2
+	+	3	0
+
+> ~/.git/COMMIT_EDITMSG
+	*	1629594358	0
+	"	1	0
+	^	2	0
+	.	1	9
+	+	1	9
 
 > ~/bash/alx
 	*	1629593626	0
